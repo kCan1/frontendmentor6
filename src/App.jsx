@@ -8,7 +8,7 @@ function App() {
   return (
     <>
       <main className="min-h-screen flex justify-center items-center">
-        <section id="fourcard">
+        <section id="fourcard" className="flex justify-center items-center">
           <FourCard />
         </section>
       </main>
