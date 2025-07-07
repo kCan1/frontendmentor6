@@ -8,9 +8,7 @@ import Icon4 from "../assets/images/icon-calculator.svg";
 
 const FourCard = () => {
   return (
-    <article className="font-primary text-center md:justify-center md:items-center flex flex-col my-20">
-      <Header />
-
+    <article className="font-primary text-center md:justify-center md:items-center flex flex-col">
       <div className="flex flex-col md:flex-row gap-10 items-center">
         <div className="flex items-center">
           <Card
