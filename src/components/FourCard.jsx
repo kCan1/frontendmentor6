@@ -1,5 +1,4 @@
 import React from "react";
-import Header from "./card/Header";
 import Card from "./card/Card";
 import Icon1 from "../assets/images/icon-supervisor.svg";
 import Icon2 from "../assets/images/icon-team-builder.svg";
